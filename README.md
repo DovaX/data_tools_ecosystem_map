@@ -10,7 +10,8 @@ Forloop.ai
 Zyte.io  
 Octoparse  
 ScrapingBee  
-ParseHub  
+ParseHub
+Apify
 
 # RPA tools
 UiPath  
@@ -62,7 +63,7 @@ Data Robot
 Dataiku  
 Peltarion  
 Obviously.ai  
-
+Deepnote
 
 
 I added only first batch of tools
