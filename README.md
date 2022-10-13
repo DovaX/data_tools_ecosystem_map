@@ -12,11 +12,13 @@ Octoparse
 ScrapingBee  
 ParseHub
 Apify
+Axiom.ai
 
 # RPA tools
 UiPath  
 AutomationAnywhere  
-BluePrism  
+BluePrism 
+Electroneek
 
 # API connectors
 Zapier  
@@ -44,7 +46,7 @@ AWS Glue DataBrew
 # DataOps tools
 Forloop.ai  
 Orchest.io  
-Apache Airflow  
+Apache Airflow
 
 # DevOps tools
 Docker  
@@ -64,6 +66,10 @@ Dataiku
 Peltarion  
 Obviously.ai  
 Deepnote
+
+# Data ingestion + Scraping + External data
+Osmos.io
+Thinknum
 
 
 I added only first batch of tools
